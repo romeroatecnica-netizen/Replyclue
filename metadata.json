@@ -1,0 +1,6 @@
+{
+  "name": "ReplyCue — Reply Generator for Google Reviews, Emails & Everyday Messages",
+  "description": "Fast, 100% client-side reply generator for Google reviews, customer emails, work messages, social comments, and everyday replies in 10 languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

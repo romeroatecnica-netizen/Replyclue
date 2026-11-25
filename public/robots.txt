@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://replycue.bastelar.com/sitemap.xml
